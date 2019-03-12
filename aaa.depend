@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512014148 source:c:\users\srinivasa\desktop\aaa\main.cpp
+	<graphics.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<time.h>
+
